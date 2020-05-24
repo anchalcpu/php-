@@ -1,0 +1,22 @@
+Body{
+Background-image:url("https://image.freepik.com/free-vector/elegant-white-texture-background_23-2148431731.jpg");
+Background-size:cover;
+Background-repeat:no-repeat;
+}
+Li a:hover{
+color:green;
+
+}
+
+.grid{
+  display: grid;
+  background-color: #2196F3;
+  padding: 10px;
+}
+.gridblock{
+  background-color: lightblue;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
